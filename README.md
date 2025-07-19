@@ -10,7 +10,7 @@
 
 ## 🌐Socials:
 <p align="left">
-<a href="https://twitter.com/srujalsau" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5MzU1MDYsIm5iZiI6MTc1MjkzNTIwNiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE5VDE0MjY0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZhMTQ5ZjA2MzM1Zjc1NzI2ZjQ2ZjgxMTkwMTkzZWQwMzcyODMyNjU4OTVmZDRiZjg0MTg4ZTg1YTE3NWMxNTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rYjZU0iOl2uqKMBEupdugEeFmPwVd_bNZHui7cJBjIE" alt="srujalsau" height="67" width="67" /></a>
+<a href="https://twitter.com/srujalsau" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="srujalsau" height="67" width="67" /></a>
 <a href="https://linkedin.com/in/srujalsau" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://linkedin.com/in/srujalsau" height="67" width="67" /></a>
 <a href="https://instagram.com/sau.srujal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="sau.srujal" height="67" width="67" /></a>
 </p>
