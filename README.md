@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif)](https://22srujal.io)
+[![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5MzU1MDYsIm5iZiI6MTc1MjkzNTIwNiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE5VDE0MjY0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM5ZWJlYWYwNDQ0MjlkZmE3MTZkOTJlNDJkMGNmMDc2NWY2MmMwNDI2M2UzM2ZmOTI1MDgyNTliYzAzNmYxNjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.cs3kcXWAaPICeCE-EKEYYFLhgADL-ZqGIPjXY2X9z3o)](https://22srujal.io)
 <h1 align="center">Hi 👋, I'm Srujal Sau</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22srujal&label=Profile%20views&color=0e75b6&style=flat" alt="22srujal" /> </p>
@@ -10,9 +10,9 @@
 
 ## 🌐Socials:
 <p align="left">
-<a href="https://twitter.com/srujalsau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srujalsau" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/srujalsau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/srujalsau" height="30" width="40" /></a>
-<a href="https://instagram.com/sau.srujal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sau.srujal" height="30" width="40" /></a>
+<a href="https://twitter.com/srujalsau" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI5MzU1MDYsIm5iZiI6MTc1MjkzNTIwNiwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzE5VDE0MjY0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTZhMTQ5ZjA2MzM1Zjc1NzI2ZjQ2ZjgxMTkwMTkzZWQwMzcyODMyNjU4OTVmZDRiZjg0MTg4ZTg1YTE3NWMxNTgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.rYjZU0iOl2uqKMBEupdugEeFmPwVd_bNZHui7cJBjIE" alt="srujalsau" height="67" width="67" /></a>
+<a href="https://linkedin.com/in/srujalsau" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://linkedin.com/in/srujalsau" height="67" width="67" /></a>
+<a href="https://instagram.com/sau.srujal" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="sau.srujal" height="67" width="67" /></a>
 </p>
 
 ## 🖥️Tech Stack:
