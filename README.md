@@ -1,4 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/73187712/208087134-27c9c64d-1fed-483d-b2e7-9d6f1cd41fe3.gif)](https://22srujal.io)
 <h1 align="center">Hi 👋, I'm Srujal Sau</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22srujal&label=Profile%20views&color=0e75b6&style=flat" alt="22srujal" /> </p>
