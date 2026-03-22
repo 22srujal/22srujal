@@ -3,9 +3,11 @@
 
 
 
-- 🌱 I’m currently learning **Machine Learning**
+- Currently learning Cloud Computing, focusing on cloud fundamentals, deployment, and scalable system design.
 
-- 📫 How to reach me **srujalsau@gmail.com**
+- How to reach me **srujalsau@gmail.com**
+  
+- My Resume- https://22srujal.github.io/Resume/
 
 ## 🌐Socials:
 <p align="left">
